@@ -1,4 +1,4 @@
 # kiran_cssgridflex
 
 
-A Basic webpage built using HTML, CSS Flex and CSS Grid.
+A Basic responsive webpage built using HTML, CSS Flex and CSS Grid.
